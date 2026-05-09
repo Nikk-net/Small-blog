@@ -253,8 +253,8 @@ export default function HomePage() {
             <div className="tag">Cybersecutiry Specialist</div>
 
             <h1>
-              <span className="gradient">Your Name.</span>
-              <br />I Hack Things.
+              <span className="gradient">Nickolay.</span>
+              <br />Cybersec.
             </h1>
 
             <p>
@@ -274,9 +274,8 @@ export default function HomePage() {
 
           <div className="heroCard">
             <img
-              src="/heroImg.jpg"
+              src="/heroImg.webp"
               alt="Security visualization"
-              loading="lazy"
             />
           </div>
         </section>
@@ -322,7 +321,7 @@ export default function HomePage() {
               </p>
             </div>
 
-            <img src="/heroImg.jpg" alt="About visual" loading="lazy" />
+            <img src="/aboutImg.jpg" alt="About visual"  />
           </div>
         </section>
 
@@ -332,17 +331,17 @@ export default function HomePage() {
           <div className="contact">
             <div className="card">
               <div className="label">Email</div>
-              secure@domain.com
+              unibit.sofia
             </div>
 
             <div className="card">
               <div className="label">GitHub</div>
-              github.com/yourhandle
+              https://github.com/Nikk-net
             </div>
 
             <div className="card">
               <div className="label">LinkedIn</div>
-              linkedin.com/in/yourprofile
+              https://linkedin.com/in/nikolay
             </div>
           </div>
         </section>
