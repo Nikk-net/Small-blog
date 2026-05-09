@@ -266,7 +266,7 @@ export default function HomePage() {
               <a className="btn primary" href="#work">
                 View Work
               </a>
-              <a className="btn secondary" href="/heroImg.jpg" download>
+              <a className="btn secondary" href="/mockcv.jpg" download>
                 Download CV
               </a>
             </div>
